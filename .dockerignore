@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Markdown files
+*.MD
+
+# IDE files
+.vscode
+.idea
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# NPM files
+node_modules/
+.npmrc
+
+# Docker files
+.dockerignore
+Dockerfile
+
+# Git folders ad files
+.git
+.gitignore
